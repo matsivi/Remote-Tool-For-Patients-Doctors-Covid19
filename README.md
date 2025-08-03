@@ -11,7 +11,8 @@ This project provides a remote assistance tool for patients and doctors, featuri
   - Manage patient appointments and priorities.
   - Display information and updates about COVID-19.
   - Text-to-speech notifications for patients and health updates.
-  - QR code scanning and world map visualization.
+  - ~~QR code scanning (no longer supported)~~
+  - World map visualization.
   - Fragment-based UI for switching between modules (appointments, actions, vaccination info, etc.).
   - Communicates with a backend server for real-time updates (e.g., "next patient" notifications).
 
