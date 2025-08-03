@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Covid19New/app/src/main/res/layout/fragment_qr_scanner.xml" value="0.1" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/activity_main.xml" value="0.17734375" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_buttons.xml" value="0.2" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_draseis.xml" value="0.22" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_drasi.xml" value="0.25" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_oxima.xml" value="0.13" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_priority.xml" value="0.17734375" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_qr_scan.xml" value="0.1" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_qr_scanner.xml" value="0.16" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/fragment_rantevou.xml" value="0.17734375" />
+        <entry key="..\:/USB/Covid19New/app/src/main/res/layout/table_rantebou.xml" value="0.1" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2225" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2225" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/activity_main.xml" value="0.27109375" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_buttons.xml" value="0.27109375" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_drasi.xml" value="0.27109375" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_embolio.xml" value="0.10086633663366337" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_oxima.xml" value="0.10086633663366337" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_priority.xml" value="0.27109375" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_qr_scan.xml" value="0.26328125" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_qr_scanner.xml" value="0.26328125" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_rantevou.xml" value="0.27109375" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/fragment_world_map.xml" value="0.26328125" />
+        <entry key="..\:/Users/Coding/Downloads/latest new/Covid19New/app/src/main/res/layout/table_rantebou.xml" value="0.27109375" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/fragment_buttons.xml" value="0.18" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/fragment_draseis.xml" value="0.25" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/fragment_epilogi.xml" value="0.1" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/fragment_priority.xml" value="0.18" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/fragment_qr_scanner.xml" value="0.18" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/fragment_rantevou.xml" value="0.25" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/table_rantebou.xml" value="0.25" />
+        <entry key="..\:/Users/EA_PC_Robot2/AndroidStudioProjects/Covid19New/app/src/main/res/layout/test.xml" value="0.17734375" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/fragment_buttons.xml" value="0.17734375" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/fragment_drasi.xml" value="0.21" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/fragment_oxima.xml" value="0.17734375" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/fragment_priority.xml" value="0.17" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/fragment_qr_scan.xml" value="0.11041666666666666" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/fragment_qr_scanner.xml" value="0.17" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/fragment_rantevou.xml" value="0.17734375" />
+        <entry key="..\:/ptix/Covid19New/app/src/main/res/layout/table_rantebou.xml" value="0.11041666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
